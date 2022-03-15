@@ -3,7 +3,7 @@ Imitation of a very long gaming session in a monopoly + visualization of heatmap
 
 ## Setup
 A classic gaming field with standart set of gaming cards was used.
-[!gaming field](field.jpg)
+[!gaming field](../master/field.jpeg)
 
 ## Example
-[!example](sample.jpg)
+[!example](../master/sample.jpg)
